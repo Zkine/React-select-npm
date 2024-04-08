@@ -1,13 +1,20 @@
 import React from "react";
 
-export default function Select(props) {
+export default function Select({
+  htmlFor,
+  className,
+  children,
+  name,
+  id,
+  className2,
+}) {
   return (
     <>
-      <label htmlFor={props.htmlFor} className={props.className}>
-        {props.children[0]}
+      <label htmlFor={htmlFor} className={className}>
+        {children[0]}
       </label>
-      <select name={props.name} id={props.id} className={props.className2}>
-        {props.children[1]}
+      <select name={name} id={id} className={className2}>
+        {children[1]}
       </select>
     </>
   );
