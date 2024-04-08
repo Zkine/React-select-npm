@@ -13,9 +13,9 @@ React-select is a component that can be used in your React projects. You must kn
 Install my-project with npm
 
 ```bash
-  npm install @Zkine/react-select
+  npm install @zkine/react-select
   # or
-  yarn add @Zkine/react-select
+  yarn add @zkine/react-select
 ```
 
 ## Authors
