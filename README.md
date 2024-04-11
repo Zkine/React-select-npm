@@ -1,14 +1,20 @@
+
 # @Zkine/React-select
 
 React-select is a component that can be used in your React projects. You must know a minimum of HTML tags as well as the use of components in React to use it.
 
-Link to HTML <select> element document : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+Link to HTML <select> element document :  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+
+
+
+
 
 ## Features
 
-- This component can be used for React version 17 and higher
-- Out of the box integration
-- Small size and no dependencies
+ - This component can be used for React version 17 and higher
+ - Out of the box integration
+ - Small size and no dependencies
+
 
 ## Installation
 
@@ -19,7 +25,7 @@ Install my-project with npm
   # or
   yarn add @Zkine/react-select
 ```
-
+    
 ## Usage/Examples
 
 ```javascript
@@ -57,16 +63,22 @@ const root = createRoot(document.getElementById('root'));
 root.render(<App />);
 ```
 
+
 ## Props Reference
 
-| Props       | Type     |
-| :---------- | :------- |
-| `htmlFor`   | `string` |
+
+| Props | Type     |
+| :-------- | :------- |
+| `htmlFor` | `string` |
 | `className` | `string` |
-| `children`  | `node`   |
-| `name`      | `string` |
-| `id`        | `string` |
+| `children` | `node` |
+| `name` | `string` |
+| `id` | `string` |
+
+
+
 
 ## Authors
 
 - [@Zkine](https://github.com/Zkine)
+
