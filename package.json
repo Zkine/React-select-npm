@@ -2,7 +2,7 @@
   "name": "@zkine/react-select",
   "description": "One test React component",
   "author": "Zkine",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
