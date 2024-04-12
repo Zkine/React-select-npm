@@ -1,8 +1,8 @@
 {
   "name": "@zkine/react-select",
-  "description": "One test React component",
+  "description": "Component allowing it to be imported into React version 18 projects",
   "author": "Zkine",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zkine/npm-test"
+    "url": "git+https://github.com/Zkine/React-select-npm"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",

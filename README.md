@@ -6,7 +6,7 @@ Link to HTML select element document : [click here](https://developer.mozilla.or
 
 ## Features
 
-- This component can be used for React version 17 and higher
+- This component can be used for React version 18
 - Out of the box integration
 - Small size and no dependencies
 
