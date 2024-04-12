@@ -2,10 +2,15 @@
   "name": "@zkine/react-select",
   "description": "One test React component",
   "author": "Zkine",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "keywords": [
+    "React",
+    "Component",
+    "Select"
+  ],
   "files": [
     "dist",
     "README.md"
