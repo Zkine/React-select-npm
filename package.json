@@ -2,7 +2,7 @@
   "name": "@zkine/react-select",
   "description": "Component allowing it to be imported into React version 18 projects",
   "author": "Zkine",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
